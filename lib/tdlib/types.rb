@@ -451,6 +451,7 @@ module TD::Types
       'textEntityTypePreCode'                           => 'TextEntityType::PreCode',
       'textEntityTypeTextUrl'                           => 'TextEntityType::TextUrl',
       'textEntityTypeMentionName'                       => 'TextEntityType::MentionName',
+      'textEntityTypeMediaTimestamp'                    => 'TextEntityType::MediaTimestamp',
       'inputThumbnail'                                  => 'InputThumbnail',
       'MessageSchedulingState'                          => 'MessageSchedulingState',
       'messageSchedulingStateSendAtDate'                => 'MessageSchedulingState::SendAtDate',
